@@ -1,5 +1,7 @@
 badge_name_ BPB02=
 badge_desc_ BPB02=
+badge_name_ d2ibhn8-be669a2f-9e56-4df2-bed3-f21ad9418cdc=
+badge_desc_ d2ibhn8-be669a2f-9e56-4df2-bed3-f21ad9418cdc=
 badge_name_ HIC10=Hotel Putze
 badge_desc_ HIC10=Hier siehst du unsere tolle Putzfrau des FunHotels 
 badge_name_ IT649=Monatsevent September 2016
