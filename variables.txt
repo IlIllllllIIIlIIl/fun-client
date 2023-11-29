@@ -321,6 +321,7 @@ notification.campaign.credit.donation={"display":"BUBBLE"}
 notification.campaign.product.donation={"display":"BUBBLE"}
 notification.casino.too_many_dice.placement={"display":"POP_UP"}
 notification.casino.too_many_dice={"display":"POP_UP"}
+notification.cbs2.sanction.trade_lock={"delivery":"PERSISTENT","display":"POP_UP"}
 notification.cfh.created={"display":"POP_UP","title":""}
 notification.content_moderation.message_blocked={"display":"BUBBLE","image":"${image.library.url}album1584/NO2.png"}
 notification.feed.enabled=false
